@@ -36,4 +36,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MY_USERNAME: ${{ secrets.MY_USERNAME_GHUBA }}
+<<<<<<< HEAD
           MY_PASSWORD: ${{ secrets.MY_PASSWORD_GHUBA }}
+=======
+           MY_PASSWORD: ${{ secrets.MY_PASSWORD_GHUBA }}
+>>>>>>> 342538ab4de5d72dcc679702c9c402d02455974c
