@@ -1,1 +1,1 @@
-Sitemap: https://MAK067.github.io/spotify-dash/sitemap.xml
+Sitemap: https://mak067.github.io/spotify-dash/sitemap.xml
