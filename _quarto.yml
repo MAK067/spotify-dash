@@ -3,19 +3,31 @@ project:
 
 website:
   title: "Spotify Dashboard"
+  favicon: images/logo.png
+  page-navigation: true
+  site-url: https://mak067.github.io/spotify-dash
+  repo-url: https://github.com/MAK067/spotify-dash
+  repo-actions: [edit, source, issue]
   sidebar:
-    contents:
+    title: "Posit 2024 Table Contest"
+    style: "docked"
+    search: true
+    collapse-level: 1
+    logo: images/logo.png
+    contents: 
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
       - href: dashboard.qmd
-        text: Dashboard   
+        text: My entry
+      - href: about.qmd
+        text: About Me 
 
 format:
   html:
     theme: [cosmo, custom.scss]
+    highlight-style: atom-one-dark
     toc: true
-
+    grid:
+      sidebar-width: 150px
 
 
