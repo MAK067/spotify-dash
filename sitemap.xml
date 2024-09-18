@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mak067.github.io/spotify-dash/about.html</loc>
-    <lastmod>2024-09-17T23:10:56.049Z</lastmod>
-  </url>
-  <url>
     <loc>https://mak067.github.io/spotify-dash/dashboard.html</loc>
-    <lastmod>2024-09-17T23:10:56.049Z</lastmod>
+    <lastmod>2024-09-18T23:09:56.893Z</lastmod>
   </url>
   <url>
     <loc>https://mak067.github.io/spotify-dash/index.html</loc>
-    <lastmod>2024-09-17T23:10:56.057Z</lastmod>
+    <lastmod>2024-09-18T23:09:56.897Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mak067.github.io/spotify-dash/about.html</loc>
+    <lastmod>2024-09-18T23:09:56.893Z</lastmod>
   </url>
 </urlset>
